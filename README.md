@@ -17,7 +17,6 @@ I’m currently pursuing my Master’s in Data Analytics in Business at Seattle 
 ![Performance Measurement](https://img.shields.io/badge/Performance_Measurement-1f425f?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![Monitoring & Evaluation](https://img.shields.io/badge/Monitoring_&_Evaluation-006400?style=for-the-badge&logo=read-the-docs&logoColor=white)
 ![KPI Tracking](https://img.shields.io/badge/KPI_Tracking-8B008B?style=for-the-badge&logo=metabase&logoColor=white)
-![Dashboard Design](https://img.shields.io/badge/Dashboard_Design-FF6F61?style=for-the-badge&logo=grafana&logoColor=white)
 ![Project Management](https://img.shields.io/badge/Project_Management-003087?style=for-the-badge&logo=trello&logoColor=white)
 ![Budgeting](https://img.shields.io/badge/Budgeting-28A745?style=for-the-badge&logo=moneygram&logoColor=white)
 ![English](https://img.shields.io/badge/English-Fluent-0044BB?style=for-the-badge)
